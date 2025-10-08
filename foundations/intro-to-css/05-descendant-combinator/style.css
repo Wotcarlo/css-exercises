@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+/* div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20ox;
+    text-align: center;
+} */
+/* .container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20ox;
+    text-align: center;
+} */
+/* .container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20ox;
+    text-align: center;
+} */
+ div.container p.text{
+    background-color: yellow;
+    color: red;
+    font-size: 20ox;
+    text-align: center;
+}
